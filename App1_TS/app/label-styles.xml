@@ -1,0 +1,16 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="navigatingTo">
+    <Page.actionBar>
+        <ActionBar title="Label styles"/>
+    </Page.actionBar>
+    <GridLayout columns="*,50" rows="80, 50, 80, 50, 80, 50">
+        <Label id="lblTransform" text="transform" class="title" style="text-transform: uppercase;" row="0" col="0"/>
+        <Button id="changeTransform" class="change" tap="changeTextTransform" row="0" col="1"/>
+        <Label id="statusTransform" class="subtitle" row="1" col="0"/>
+        <Label id="lblDecoration" text="Decorate" class="title" style="text-decoration: underline;" row="2" col="0"/>
+        <Button id="changeDecoration" class="change" tap="changeTextDecoration" row="2" col="1"/>
+        <Label id="statusDecoration" class="subtitle" row="3" col="0" />
+        <Label id="lblLetterSpacing" text="Spa" class="title" style="letter-spacing: 0;" row="4" col="0"/>
+        <Button id="changeSpacing" class="change" tap="changeLetterSpacing" row="4" col="1"/>
+        <Label id="statusLetterSpacing" class="subtitle" row="5" col="0" />
+    </GridLayout>
+</Page>

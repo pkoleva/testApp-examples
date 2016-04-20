@@ -1,0 +1,21 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.App1TS",
+		"tns-android": {
+			"version": "2.0.0"
+		}
+	},
+	"dependencies": {
+		"tns-core-modules": "^2.0.0",
+		"tns-core-modules-widgets": "^2.0.0"
+	},
+	"devDependencies": {
+		"babel-traverse": "6.7.6",
+		"babel-types": "6.7.2",
+		"babylon": "6.7.0",
+		"filewalker": "0.1.2",
+		"lazy": "1.0.11",
+		"nativescript-dev-typescript": "^0.3.0",
+		"typescript": "^1.8.10"
+	}
+}

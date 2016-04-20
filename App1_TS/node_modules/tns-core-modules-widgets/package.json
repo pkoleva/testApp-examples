@@ -1,0 +1,48 @@
+{
+  "name": "tns-core-modules-widgets",
+  "version": "2.0.0",
+  "description": "Native widgets used in the NativeScript framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeScript/android-widgets.git"
+  },
+  "author": {
+    "name": "NativeScript team"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NativeScript/android-widgets/issues"
+  },
+  "homepage": "https://github.com/NativeScript/android-widgets#readme",
+  "nativescript": {
+    "platforms": {
+      "ios": "2.0.0",
+      "android": "2.0.0"
+    }
+  },
+  "_id": "tns-core-modules-widgets@2.0.0",
+  "_shasum": "0369fd83fc30df95c33bedfa3f0c0183fd62576f",
+  "_resolved": "http://nsbuild01.telerik.com/npm/tns-core-modules-widgets/-/tns-core-modules-widgets-2.0.0.tgz",
+  "_from": "tns-core-modules-widgets@>=2.0.0 <3.0.0",
+  "_npmVersion": "2.15.0",
+  "_nodeVersion": "4.4.2",
+  "_npmUser": {
+    "name": "dummy",
+    "email": "dummy@dummy.com"
+  },
+  "maintainers": [
+    {
+      "name": "dummy",
+      "email": "dummy@dummy.com"
+    }
+  ],
+  "dist": {
+    "shasum": "0369fd83fc30df95c33bedfa3f0c0183fd62576f",
+    "tarball": "http://nsbuild01.telerik.com/npm/tns-core-modules-widgets/-/tns-core-modules-widgets-2.0.0.tgz"
+  },
+  "readme": "ERROR: No README data found!"
+}

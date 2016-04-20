@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\koleva\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Work\release\App1_TS\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-23.3.0_348437110e721ddfe3c68a058b125ee157050c2c.jar" />
+    </item>
+    <item
+        jar="C:\Work\release\App1_TS\platforms\android\libs\nativescript.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b64c423b58339ed3aefd8a44c9908fc01827e350">
+        <dex dex="C:\Work\release\App1_TS\platforms\android\build\intermediates\pre-dexed\F0\debug\nativescript_7702eda99e984d48fd9c8f4a66f6376fdd735d92.jar" />
+    </item>
+
+</items>
